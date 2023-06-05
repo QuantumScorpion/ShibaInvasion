@@ -9,5 +9,4 @@ Shiba Invasion is an engaging ethereum blockchain-based game that features Shiba
 - Change your Shiba's name to reflect its personality
 - Shiba battles for fun competition
 - Feed your Shiba with a Kitty to spawn a new Shiba
-- Admin functionality to set game parameters
 - Compliant with ERC721 token standard
